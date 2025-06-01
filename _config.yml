@@ -1,0 +1,20 @@
+title: Даведнік
+description: Даведнік пра шлях да беларушчыны
+#theme: jekyll-theme-lanyon
+remote_theme: poole/lanyon@v1.1.0
+markdown: kramdown
+version: 2025-05-17
+
+google_analytics_id: G-2GZFDNK487
+
+exclude:
+  - audiobooks/
+  - books/
+  - dictionaries/
+  - kids/
+  - other/
+  - video/
+  - Video/
+
+plugins:
+  - jekyll-remote-theme
