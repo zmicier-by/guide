@@ -18,3 +18,4 @@ exclude:
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
